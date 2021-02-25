@@ -1,6 +1,6 @@
 # Master-Thesis---Machine-Learning-Based-Beam-Tacking-in-mmWave-Systems
 
-A Master Thesis Project Supervised by Ericsson AB and KTH Royal Institute of Technology.  
+Master Thesis Project Supervised by Ericsson AB and KTH Royal Institute of Technology.  
 
 `Author:` Yizhan Yang  
 `Contact:` yizhanyang95@gmail.com
